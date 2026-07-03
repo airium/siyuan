@@ -1,4 +1,6 @@
 {
+  "headingNumber": "제목 번호",
+  "headingNumberTip": "제목 블록 왼쪽에 계층 번호 표시",
   "mcpStatusConnected": "연결됨",
   "mcpStatusConnecting": "연결 중",
   "mcpStatusFailed": "연결 실패",

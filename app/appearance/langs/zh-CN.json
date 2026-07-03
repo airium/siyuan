@@ -1,4 +1,6 @@
 {
+  "headingNumber": "标题编号",
+  "headingNumberTip": "在标题块左侧显示层级编号",
   "mcpStatusConnected": "已连接",
   "mcpStatusConnecting": "连接中",
   "mcpStatusFailed": "连接失败",

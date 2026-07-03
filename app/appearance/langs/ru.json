@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Нумерация заголовков",
+  "headingNumberTip": "Показывать иерархические номера слева от блоков заголовков",
   "mcpStatusConnected": "Подключено",
   "mcpStatusConnecting": "Подключение",
   "mcpStatusFailed": "Ошибка подключения",

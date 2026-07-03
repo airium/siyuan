@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Penomoran judul",
+  "headingNumberTip": "Tampilkan nomor hierarkis di kiri blok judul",
   "mcpStatusConnected": "Terhubung",
   "mcpStatusConnecting": "Menghubungkan",
   "mcpStatusFailed": "Koneksi gagal",

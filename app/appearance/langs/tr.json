@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Başlık numaralandırma",
+  "headingNumberTip": "Başlık bloklarının solunda hiyerarşik numaraları göster",
   "mcpStatusConnected": "Bağlandı",
   "mcpStatusConnecting": "Bağlanıyor",
   "mcpStatusFailed": "Bağlantı başarısız",

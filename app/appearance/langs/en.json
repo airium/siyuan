@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Heading number",
+  "headingNumberTip": "Display hierarchical numbers to the left of heading blocks",
   "mcpStatusConnected": "Connected",
   "mcpStatusConnecting": "Connecting",
   "mcpStatusFailed": "Connection failed",

@@ -1,4 +1,6 @@
 {
+  "headingNumber": "शीर्षक क्रमांकन",
+  "headingNumberTip": "शीर्षक ब्लॉक के बाईं ओर पदानुक्रमित क्रमांक दिखाएं",
   "mcpStatusConnected": "जुड़ा हुआ",
   "mcpStatusConnecting": "कनेक्ट हो रहा है",
   "mcpStatusFailed": "कनेक्शन विफल",

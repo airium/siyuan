@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Číslovanie nadpisov",
+  "headingNumberTip": "Zobraziť hierarchické čísla naľavo od blokov nadpisov",
   "mcpStatusConnected": "Pripojené",
   "mcpStatusConnecting": "Pripája sa",
   "mcpStatusFailed": "Pripojenie zlyhalo",

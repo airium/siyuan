@@ -1,4 +1,6 @@
 {
+  "headingNumber": "เลขลำดับหัวข้อ",
+  "headingNumberTip": "แสดงเลขลำดับแบบลำดับชั้นทางซ้ายของบล็อกหัวข้อ",
   "mcpStatusConnected": "เชื่อมต่อแล้ว",
   "mcpStatusConnecting": "กำลังเชื่อมต่อ",
   "mcpStatusFailed": "การเชื่อมต่อล้มเหลว",

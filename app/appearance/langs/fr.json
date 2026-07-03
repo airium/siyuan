@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Numérotation des titres",
+  "headingNumberTip": "Afficher les numéros hiérarchiques à gauche des blocs de titre",
   "mcpStatusConnected": "Connecté",
   "mcpStatusConnecting": "Connexion en cours",
   "mcpStatusFailed": "Échec de la connexion",

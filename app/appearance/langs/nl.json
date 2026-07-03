@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Kopnummering",
+  "headingNumberTip": "Hiërarchische nummers links van kopblokken weergeven",
   "mcpStatusConnected": "Verbonden",
   "mcpStatusConnecting": "Verbinding maken",
   "mcpStatusFailed": "Verbinding mislukt",

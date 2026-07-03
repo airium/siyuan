@@ -1,4 +1,6 @@
 {
+  "headingNumber": "מספור כותרות",
+  "headingNumberTip": "הצג מספרים היררכיים משמאל לבלוקי כותרת",
   "mcpStatusConnected": "מחובר",
   "mcpStatusConnecting": "מתחבר",
   "mcpStatusFailed": "חיבור נכשל",

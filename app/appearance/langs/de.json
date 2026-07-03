@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Überschriftennummerierung",
+  "headingNumberTip": "Hierarchische Nummern links neben Überschrift-Blöcken anzeigen",
   "mcpStatusConnected": "Verbunden",
   "mcpStatusConnecting": "Verbindung wird hergestellt",
   "mcpStatusFailed": "Verbindung fehlgeschlagen",

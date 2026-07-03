@@ -1,4 +1,6 @@
 {
+  "headingNumber": "ترقيم العناوين",
+  "headingNumberTip": "عرض الأرقام الهرمية على يسار كتل العناوين",
   "mcpStatusConnected": "متصل",
   "mcpStatusConnecting": "جارِ الاتصال",
   "mcpStatusFailed": "فشل الاتصال",

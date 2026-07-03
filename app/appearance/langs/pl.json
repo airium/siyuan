@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Numeracja nagłówków",
+  "headingNumberTip": "Pokaż numery hierarchiczne po lewej stronie bloków nagłówka",
   "mcpStatusConnected": "Połączono",
   "mcpStatusConnecting": "Łączenie",
   "mcpStatusFailed": "Połączenie nie powiodło się",

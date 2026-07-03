@@ -1,4 +1,6 @@
 {
+  "headingNumber": "Numeración de encabezados",
+  "headingNumberTip": "Mostrar números jerárquicos a la izquierda de los bloques de encabezado",
   "mcpStatusConnected": "Conectado",
   "mcpStatusConnecting": "Conectando",
   "mcpStatusFailed": "Conexión fallida",

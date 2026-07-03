@@ -1,4 +1,6 @@
 {
+  "headingNumber": "見出し番号",
+  "headingNumberTip": "見出しブロックの左側に階層番号を表示する",
   "mcpStatusConnected": "接続済み",
   "mcpStatusConnecting": "接続中",
   "mcpStatusFailed": "接続失敗",
